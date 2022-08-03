@@ -4,8 +4,6 @@
 
 # I'm PandaGhost
 
-hà hà
-
 > **test**
 
 ~我是ZZ~
